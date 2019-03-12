@@ -12,3 +12,7 @@ class Person
     @this_persons_job
   end
 end
+
+george = Person.new
+george.name=("George")
+george.name
