@@ -16,3 +16,5 @@ end
 george = Person.new
 george.name=("George")
 puts george.name
+george.job=("writer")
+puts george.job
